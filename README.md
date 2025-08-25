@@ -13,4 +13,9 @@ The app also supports **browser text-to-speech** using the Web Speech API, so th
 
 ---
 
-## 📂 Project Structure
+## 📂 Web Page 
+
+
+
+https://github.com/user-attachments/assets/398251fc-c943-4692-95a3-9dbc77f3be7b
+
